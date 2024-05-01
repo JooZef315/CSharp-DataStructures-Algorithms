@@ -1,0 +1,8 @@
+D:\Pro\Data\algo&DS\BST\Stack\bin\Debug\Stack.exe
+D:\Pro\Data\algo&DS\BST\Stack\bin\Debug\Stack.pdb
+D:\Pro\Data\algo&DS\BST\Stack\obj\x86\Debug\Stack.exe
+D:\Pro\Data\algo&DS\BST\Stack\obj\x86\Debug\Stack.pdb
+D:\Pro\Data\algo&DS\Stack\obj\x86\Debug\Stack.exe
+D:\Pro\Data\algo&DS\Stack\obj\x86\Debug\Stack.pdb
+D:\Pro\Data\algo&DS\Stack\bin\Debug\Stack.exe
+D:\Pro\Data\algo&DS\Stack\bin\Debug\Stack.pdb

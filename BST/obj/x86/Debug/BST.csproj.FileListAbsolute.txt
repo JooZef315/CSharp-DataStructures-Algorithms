@@ -1,0 +1,6 @@
+D:\Pro\Data\algo&DS\BST\BST\bin\Debug\BST.exe
+D:\Pro\Data\algo&DS\BST\BST\bin\Debug\BST.pdb
+D:\Pro\Data\algo&DS\BST\BST\obj\x86\Debug\BST.exe
+D:\Pro\Data\algo&DS\BST\BST\obj\x86\Debug\BST.pdb
+D:\Pro\Data\algo&DS\BST\obj\x86\Debug\BST.exe
+D:\Pro\Data\algo&DS\BST\obj\x86\Debug\BST.pdb

@@ -1,0 +1,7 @@
+D:\Eng\data-algo\progs\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Eng\data-algo\progs\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Eng\data-algo\progs\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\Eng\data-algo\progs\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\Eng\data-algo\progs\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Pro\Data\algo&DS\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\Pro\Data\algo&DS\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

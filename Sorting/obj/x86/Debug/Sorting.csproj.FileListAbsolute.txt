@@ -1,0 +1,4 @@
+D:\Pro\Data\algo&DS\Sorting\bin\Debug\Sorting.exe
+D:\Pro\Data\algo&DS\Sorting\bin\Debug\Sorting.pdb
+D:\Pro\Data\algo&DS\Sorting\obj\x86\Debug\Sorting.exe
+D:\Pro\Data\algo&DS\Sorting\obj\x86\Debug\Sorting.pdb
