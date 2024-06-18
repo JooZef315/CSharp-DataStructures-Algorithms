@@ -10,7 +10,7 @@ The `Stack` data structure is implemented in two different ways: using arrays an
 
 - **Array-based Stack (`Arr_Stack`):** This implementation uses an array to store elements and supports operations like `Push` (to add elements) and `Pop` (to remove elements).
 
-- **Linked List-based Stack (`LinkedList_Stack`):** This implementation uses a linked list to store elements and supports similar operations to the array-based implementation.
+- **Linked List-based Stack (`ArrayList_Stack`):** This implementation uses an ArrayList to store elements and supports similar operations to the array-based implementation.
 
 ### Queue
 
